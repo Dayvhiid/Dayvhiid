@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF"/>
-
 # 👋 Hi there, I'm David  
 ![Profile Views](https://komarev.com/ghpvc/?username=Dayvhiid&label=Profile%20Views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dada-david-3b667b226)
@@ -25,6 +22,8 @@ Experienced in **Laravel, PHP, JavaScript**, and modern backend ecosystems.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -32,7 +31,7 @@ Experienced in **Laravel, PHP, JavaScript**, and modern backend ecosystems.
 
 ---
 
-## 📈 GitHub Stats (Switch Themes)
+## 📈 GitHub Stats
 <p align="center">
   <a href="https://github.com/Dayvhiid">
     <img src="https://github-readme-stats.vercel.app/api?username=Dayvhiid&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
@@ -84,8 +83,3 @@ Experienced in **Laravel, PHP, JavaScript**, and modern backend ecosystems.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dada-david-3b667b226)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Dayvhiid)
 [![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@daviddada360)
-
-<!-- Animated Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="60%" alt="Coding Animation"/>
-</p>
